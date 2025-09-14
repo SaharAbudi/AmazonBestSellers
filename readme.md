@@ -41,6 +41,7 @@ This project analyzes the Amazon Bestsellers 2025 dataset, focusing on data clea
 ├─ reqs/
 │  └─ requirements.txt
 
+
 ## Dependencies & Installation
 pip install pandas numpy matplotlib seaborn
 
