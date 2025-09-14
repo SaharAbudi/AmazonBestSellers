@@ -167,6 +167,32 @@ Insight: Prices are not strongly related to ratings. Number of ratings has the s
 
 ### Figures
 
+#### 1. Price Distribution by Country (log scale)
+Highlights variability in pricing across countries. Mexico and Australia show wide spreads and high-end outliers.
+
+![Price Distribution by Country](extracted_images/AmazonBestSeller2_cell30_out1_img6.png)
+
+---
+
+#### 2. Brand vs Country Heatmap
+Visualizes the density of brand group presence across regions. Office software dominates; security strong in Germany & India.
+
+![Brand vs Country Heatmap](extracted_images/AmazonBestSeller2_cell43_out1_img11.png)
+
+---
+
+#### 3. Price vs Rating (Scatter Plot)
+Shows that high price doesn't correlate with high ratings. Many budget products receive top reviews, and vice versa.
+
+![Price vs Rating](extracted_images/AmazonBestSeller2_cell59_out0_img18.png)
+
+---
+
+#### 4. Correlation Matrix (Spearman)
+Reveals weak to moderate relationships. Number of ratings has strongest link to bestseller rank; price and rating barely correlate.
+
+![Correlation Matrix](extracted_images/AmazonBestSeller2_cell63_out1_img20.png)
+
 
 ## Business Insights (Extended)
 
