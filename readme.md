@@ -38,8 +38,8 @@ This project analyzes the Amazon Bestsellers 2025 dataset, focusing on data clea
 │  └─ Amazon_bestsellers_items_2025.csv
 ├─ notebooks/
 │  └─ AmazonBestSeller.ipynb
-├─ exports/
-│  └─ AmazonBestSeller2.html
+├─ extracted_images/
+│  └─ xyzfigue.png
 ├─ reqs/
 │  └─ requirements.txt
 ```
