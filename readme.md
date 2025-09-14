@@ -25,8 +25,7 @@ A clean, reproducible analysis of the **Amazon Bestsellers 2025** dataset. The p
 - [Results (Detailed)](#results-detailed)  
 - [Business Insights (Extended)](#business-insights-extended)  
 - [Helper Functions](#helper-functions)  
-- [Future Work](#future-work)  
-- [License](#license)  
+
 
 ## Project Overview
 This project analyzes the Amazon Bestsellers 2025 dataset, focusing on data cleaning, currency normalization, brand mapping, descriptive statistics, and visualization. The goal is to uncover insights into pricing, ratings, brand performance, and cross-country trends.
@@ -242,11 +241,3 @@ Reveals weak to moderate relationships. Number of ratings has strongest link to 
 - `_to_float_safe` / `_to_int_safe_nonneg`  
 - `extract_brand_hybrid`  
 
----
-
-## Future Work
-- Real-time currency API integration  
-- Fuzzy matching for brands  
-- Thematic brand grouping  
-- Tier-based analysis  
-- Predictive ML models  
