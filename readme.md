@@ -31,7 +31,16 @@ A clean, reproducible analysis of the **Amazon Bestsellers 2025** dataset. The p
 ## Project Overview
 This project analyzes the Amazon Bestsellers 2025 dataset, focusing on data cleaning, currency normalization, brand mapping, descriptive statistics, and visualization. The goal is to uncover insights into pricing, ratings, brand performance, and cross-country trends.
 
-<pre lang="markdown"> ## Project Structure ``` ├─ data/ │ └─ Amazon_bestsellers_items_2025.csv ├─ notebooks/ │ └─ AmazonBestSeller.ipynb ├─ exports/ │ └─ AmazonBestSeller2.html ├─ reqs/ │ └─ requirements.txt ``` </pre>
+## Project Structure
+
+├─ data/
+│ └─ Amazon_bestsellers_items_2025.csv
+├─ notebooks/
+│ └─ AmazonBestSeller.ipynb
+├─ exports/
+│ └─ AmazonBestSeller2.html
+├─ reqs/
+│ └─ requirements.txt
 
 
 ## Dependencies & Installation
