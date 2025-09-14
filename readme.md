@@ -33,14 +33,17 @@ This project analyzes the Amazon Bestsellers 2025 dataset, focusing on data clea
 
 ## Project Structure
 
+```
 ├─ data/
-│ └─ Amazon_bestsellers_items_2025.csv
+│  └─ Amazon_bestsellers_items_2025.csv
 ├─ notebooks/
-│ └─ AmazonBestSeller.ipynb
+│  └─ AmazonBestSeller.ipynb
 ├─ exports/
-│ └─ AmazonBestSeller2.html
+│  └─ AmazonBestSeller2.html
 ├─ reqs/
-│ └─ requirements.txt
+│  └─ requirements.txt
+```
+
 
 
 ## Dependencies & Installation
